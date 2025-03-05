@@ -1,4 +1,4 @@
-import Form from "./assets/Form";
+import Form from "./Form";
 
 function App () {
     return (
